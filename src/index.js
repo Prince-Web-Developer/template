@@ -1,3 +1,1 @@
-import css from "./style.css"
-
-console.log("Hello");
+import css from "./style.css";
